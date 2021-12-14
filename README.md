@@ -1,1 +1,3 @@
 - Developed the game Constructor in a group of three using C++
+- See demo below
+- ![Screen Shot 2021-12-13 at 7 48 13 PM](https://user-images.githubusercontent.com/64973420/145912393-d9dd2dfc-2a67-41fe-9c19-7ba2fb3a42fd.png)
