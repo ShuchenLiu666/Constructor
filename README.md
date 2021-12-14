@@ -1,1 +1,1 @@
-# Constructor
+- Developed the game Constructor in a group of three using C++
